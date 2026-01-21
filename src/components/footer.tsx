@@ -26,15 +26,15 @@ export default function Footer() {
                     <div>
                         <p className="uppercase font-semibold text-orange-600 text-base">Social</p>
                         <AnimatedContent className="flex flex-col mt-6 gap-3">
-                            <a href="https://prebuiltui.com?ref=buildify" className="flex items-center gap-2 text-orange-500">
+                            <a href="" className="flex items-center gap-2 text-orange-500">
                                 <TwitterIcon size={20} />
                                 <p>Twitter</p>
                             </a>
-                            <a href="https://prebuiltui.com?ref=buildify" className="flex items-center gap-2 text-orange-500">
+                            <a href="" className="flex items-center gap-2 text-orange-500">
                                 <LinkedinIcon size={20} />
                                 <p>Linkedin</p>
                             </a>
-                            <a href="https://prebuiltui.com?ref=buildify" className="flex items-center gap-2 text-orange-500">
+                            <a href="" className="flex items-center gap-2 text-orange-500">
                                 <InstagramIcon size={20} />
                                 <p>Instagram</p>
                             </a>

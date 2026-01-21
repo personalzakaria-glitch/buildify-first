@@ -13,7 +13,7 @@ export default function Navbar() {
             <AnimatedContent reverse>
                 <nav className='fixed w-full top-0 z-50 px-4 md:px-16 lg:px-24 xl:px-32 py-4 border-b transition-all duration-300 border-neutral-300'>
                     <div className="max-w-7xl mx-auto flex items-center justify-between">
-                        <a href="https://prebuiltui.com?ref=buildify">
+                        <a href="">
                             <img src="/assets/logo.svg" alt="Buildify Logo" width={135} height={36} />
                         </a>
 
@@ -29,7 +29,7 @@ export default function Navbar() {
                             <MenuIcon className="size-6.5" />
                         </button>
 
-                        <a href="https://prebuiltui.com?ref=buildify" className="hidden md:inline-block py-2.5 px-6 shadow-[inset_0_2px_4px_rgba(255,255,255,0.6)] bg-orange-500 text-white rounded-full">
+                        <a href="" className="hidden md:inline-block py-2.5 px-6 shadow-[inset_0_2px_4px_rgba(255,255,255,0.6)] bg-orange-500 text-white rounded-full">
                             Get Started
                         </a>
                     </div>
